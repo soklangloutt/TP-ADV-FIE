@@ -5,4 +5,3 @@ Next, the teacher introduced the topic of the lesson: Best Practices for Clean C
 After that activity, the teacher explained different naming conventions and introduced techniques for avoiding messy or overly complex code. He also discussed the importance of writing clean code and introduced PEP 8, the Python style guide.
 
 At the end of the class, the teacher assigned homework to review what we had learned and the questions we had answered during the session.
-hello

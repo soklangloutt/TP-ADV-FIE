@@ -1,3 +1,4 @@
+# Homework
 - At the beginning of the class, the teacher asked us to create a GitHub repository for the course and create two additional branches named course and tp. After that, he checked our work to make sure we had created the repository and branches correctly.
 
 - Next, the teacher introduced the topic of the lesson: **Best Practices for Clean Code**. He asked each student questions. We took turns answering questions about functions, variables, classes, methods, packages, constants, and other programming terminology.
